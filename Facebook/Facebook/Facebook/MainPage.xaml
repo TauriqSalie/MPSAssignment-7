@@ -4,25 +4,52 @@
              x:Class="Facebook.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="DarkBlue" Padding="24" CornerRadius="0">
-            <Label Text="Facebook" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
-        <Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="2" />
-                <RowDefinition Height="1" />
+
+        <Image Source="FacebookLogo.png"
+       WidthRequest="{OnPlatform iOS=300, Android=200}"
+       HorizontalOptions="Start" />
+
+            <Grid>
+                <Grid.RowDefinitions>
                 <RowDefinition Height="100" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="6" />
-                <ColumnDefinition Width="5" />
+                <ColumnDefinition/>
+      
             </Grid.ColumnDefinitions>
-            
-            
-        </Grid>
+            <Button Text="HomePage"
+               HorizontalOptions="Start"
+               VerticalOptions="Start" />
+
+
+            <Button Text="NewsFeed"
+                VerticalOptions="Center" />
+
+            <Button Text="Row 1, Column 0"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+                <BoxView Grid.Row="1"
+                 Grid.Column="1"
+                 Color="Purple" />
+                <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="Row1, Column 1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+                <BoxView Grid.Row="2"
+                 Grid.ColumnSpan="2"
+                 Color="Red" />
+                <Label Grid.Row="2"
+               Grid.ColumnSpan="2"
+               Text="Row 2, Columns 0 and 1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+            </Grid>
         </StackLayout>
 </ContentPage>
 
+
+  
 
 
 

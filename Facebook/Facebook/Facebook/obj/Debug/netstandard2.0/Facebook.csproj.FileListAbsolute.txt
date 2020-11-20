@@ -12,3 +12,17 @@ C:\uwcassignments\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.d
 C:\uwcassignments\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\ref\Facebook.dll
 C:\uwcassignments\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.pdb
 C:\uwcassignments\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.csprojAssemblyReference.cache
+C:\xamarinwork\Facebook\Facebook\Facebook\bin\Debug\netstandard2.0\Facebook.deps.json
+C:\xamarinwork\Facebook\Facebook\Facebook\bin\Debug\netstandard2.0\Facebook.dll
+C:\xamarinwork\Facebook\Facebook\Facebook\bin\Debug\netstandard2.0\ref\Facebook.dll
+C:\xamarinwork\Facebook\Facebook\Facebook\bin\Debug\netstandard2.0\Facebook.pdb
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.AssemblyInfoInputs.cache
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.AssemblyInfo.cs
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.csproj.CoreCompileInputs.cache
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.dll
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\ref\Facebook.dll
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.pdb
+C:\xamarinwork\Facebook\Facebook\Facebook\obj\Debug\netstandard2.0\Facebook.csprojAssemblyReference.cache

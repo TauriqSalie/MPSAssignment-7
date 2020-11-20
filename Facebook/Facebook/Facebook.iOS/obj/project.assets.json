@@ -981,24 +981,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\Tauriq Salie\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.iOS\\Facebook.iOS.csproj",
+      "projectUniqueName": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.iOS\\Facebook.iOS.csproj",
       "projectName": "Facebook.iOS",
-      "projectPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.iOS\\Facebook.iOS.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.iOS\\obj\\",
+      "projectPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.iOS\\Facebook.iOS.csproj",
+      "packagesPath": "C:\\Users\\Tauriq Salie\\.nuget\\packages\\",
+      "outputPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tauriq Salie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj": {
-              "projectPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj"
+            "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj": {
+              "projectPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj"
             }
           }
         }

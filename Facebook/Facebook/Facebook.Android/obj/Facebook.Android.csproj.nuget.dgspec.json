@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj": {}
+    "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj": {}
   },
   "projects": {
-    "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj": {
+    "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj",
+        "projectUniqueName": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj",
         "projectName": "Facebook.Android",
-        "projectPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.Android\\obj\\",
+        "projectPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj",
+        "packagesPath": "C:\\Users\\Tauriq Salie\\.nuget\\packages\\",
+        "outputPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tauriq Salie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj": {
-                "projectPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj"
+              "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj": {
+                "projectPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj": {
+    "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj",
+        "projectUniqueName": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj",
         "projectName": "Facebook",
-        "projectPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\Facebook.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook\\obj\\",
+        "projectPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\Facebook.csproj",
+        "packagesPath": "C:\\Users\\Tauriq Salie\\.nuget\\packages\\",
+        "outputPath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tauriq Salie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

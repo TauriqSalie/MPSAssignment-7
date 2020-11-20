@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxxg26U0nbNtID+d91ekSXBCRlfz9OQFesIdo3ESKb2T4i4hfvdJ+OV+1tL/xkgW+JvfIll+u+FZi8omVhw9dQ==",
+  "dgSpecHash": "YhoYX+vWfJZHzBt76ZlKD/8UawHYywXKclY/hbauXu9NucG3P7W59LTwx7ofnWixWEkjYQmrMuZ0saQYhnL2eA==",
   "success": true,
-  "projectFilePath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj",
+  "projectFilePath": "C:\\xamarinwork\\Facebook\\Facebook\\Facebook.Android\\Facebook.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
