@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKfXzAp+oQKWHlzuGuEOQbag263Zv540SGNBH6VwZBQZtbAqkcWEFjpdrTFhtTrDZAXSxsF30pKhnp2bqJa89w==",
+  "success": true,
+  "projectFilePath": "C:\\uwcassignments\\Facebook\\Facebook\\Facebook.iOS\\Facebook.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

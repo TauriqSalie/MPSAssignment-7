@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Facebook.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="DarkBlue" Padding="24" CornerRadius="0">
+            <Label Text="Facebook" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2" />
+                <RowDefinition Height="1" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6" />
+                <ColumnDefinition Width="5" />
+            </Grid.ColumnDefinitions>
+            
+            
+        </Grid>
+        </StackLayout>
+</ContentPage>
+
+
+
+
+
+
+
+
